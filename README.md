@@ -1438,6 +1438,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [jsonslice](https://github.com/bhmj/jsonslice) - Jsonpath queries with advanced filters.
 * [rql](https://github.com/a8m/rql) - Resource Query Language for REST API.
 * [straf](https://github.com/SonicRoshan/straf) - Easily Convert Golang structs to GraphQL objects.
+* [thunder](https://github.com/samsarahq/thunder) - A Go framework for rapidly building powerful graphql services
 
 ## Resource Embedding
 
